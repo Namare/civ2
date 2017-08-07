@@ -6,6 +6,7 @@ body{
     background-image: url(../img/bgg.jpg);
     background-size: cover ;
     background-position: 0px 140px;
+    background-repeat: no-repeat;
 }
 .pad0{padding: 0px !important;}
 .fs15{font-size: 15px}
