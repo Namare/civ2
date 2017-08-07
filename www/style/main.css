@@ -4,7 +4,7 @@ body{
     font-family: Calibri;
     font-size: 17px;
     background-image: url(../img/bgg.jpg);
-    background-size: cover ;
+    background-size: 300% ;
     background-position: 0px 140px;
     background-repeat: no-repeat;
 }
